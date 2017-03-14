@@ -1,0 +1,9 @@
+Variables are names/objects that you assign a value to so that the you can talk to the computer more efficiently it is like putting things into a box and labeling the box then asking someone to go grab the box labeled what ever you called the var. 
+
+Strings are what Javascript calls words letters or sentences. you can also use numbers  in a sing but strings cannot be used to math calculations. 
+
+Functions are basically statements that tell the computer if this statement or situation is true then do this action. 
+
+If statements are very similar to functions but can be used within a function where you cannot use a function inside an if statement. you also cannot use another if statement inside another if statement. 
+
+Boolean values are basically just telling the computer true or false or on/off it is a binary function. 
